@@ -1,5 +1,5 @@
 # Send_Weekly_Report_As_HTML_Table_Via_Table_PowerAutomate
-
+This is a Power Automate solution that automates the sales process of whose payments are due in certain and serves as reminder to sales lead. The sales lead gets an email for for those customer whose balance are still arrears and the data is store within sharepoint
 
 <img width="959" alt="1" src="https://github.com/RathogwaInnocent/Send_Weekly_Report_As_HTML_Table_Via_Table_PowerAutomate/assets/17208775/49d96eea-1f56-4289-ac63-8bd29df9fbb6">
 
