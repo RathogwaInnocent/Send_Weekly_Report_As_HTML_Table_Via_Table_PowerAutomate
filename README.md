@@ -11,6 +11,6 @@ This is a Power Automate solution that automates the sales process of whose paym
 
 <img width="954" alt="3" src="https://github.com/RathogwaInnocent/Send_Weekly_Report_As_HTML_Table_Via_Table_PowerAutomate/assets/17208775/975a01da-e640-4aa2-9b10-0d936163e4f6">
 
->>> Fixed the status issue shown on the first screenshot
+>>> Fixed the status issue shown on the first screenshot, The Status now shows properly. 
 
 
